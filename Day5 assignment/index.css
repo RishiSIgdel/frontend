@@ -1,0 +1,45 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1589182373726-e4f658ab50f0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8NGslMjBtb3VudGFpbnxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80);
+    background-repeat: no-repeat;
+    background-size:cover;
+
+  }
+  #icon{
+    margin-left: 80px;
+    color: brown;
+    font-size: 30px;
+  }
+  .navbar div{
+  padding: 12px;
+  }
+  .navbar .fas fa-house-user{
+    float: left;
+  
+  }
+  .navbar .floatright{
+    float: right;
+  
+  }
+  .navbar a{
+    padding: 15px 15px;
+    text-decoration: none;
+    color: rgb(5, 15, 14)
+  }
+  .title{
+    position: absolute;
+    width: 600px;
+      padding: 20px;
+      margin: 300px 600px;
+  }
+  .title h1{
+    font-size: 50px;
+    color: rgb(15, 173, 15);
+    text-align: center;
+  }
+  .title p{
+   text-align: center;
+  }
+  .navbar a:hover{
+    background-color: blue;
+  }
+  

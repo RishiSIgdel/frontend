@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(234, 245, 235);
+  }
+  .about img{
+    float: right;
+  height: 400px;
+  position: absolute;
+  left: 1050px;
+  top: 40px;
+  
+  
+  }
+  .about h1{
+   position: relative;
+   left: 100px;
+  }
+  .about h2{
+    position: relative;
+   left: 100px;
+  }
+  .about p{
+    position: relative;
+    left: 100px;
+  }
+  .icon i {
+    padding: 5px;
+    color:blue;
+  }
+  .icon{
+    position: absolute;
+    left: 110px;
+    margin-top: 10px;
+  
+  }
+  
+  button{
+    position: relative;
+   left: 100px;
+    background-color: rgb(161, 46, 152);
+    font-size: 12px;
+    padding: 8px;
+    height: 40px;
+    border: none;
+    color: rgb(7, 1, 1);
+    border-radius: 20px;
+  }
+ 
